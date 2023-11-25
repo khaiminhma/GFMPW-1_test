@@ -2,4 +2,4 @@
 
 PRESENT-80 and DM-PRESENT-80 on GF180
 
-Description (TODO)
+Descriptions (TODO)
